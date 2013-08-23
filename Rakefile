@@ -1,6 +1,6 @@
 require 'rake'
 require 'rspec/core/rake_task'
-require_relative 'db/config'
+require_relative ' db/config'
 require_relative 'lib/students_importer'
 
 
